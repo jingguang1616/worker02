@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day01mvp02" />
+            <option value="$PROJECT_DIR$/day04mvp" />
+            <option value="$PROJECT_DIR$/lianxi01" />
+            <option value="$PROJECT_DIR$/lianxi02" />
+            <option value="$PROJECT_DIR$/lianxi03" />
+            <option value="$PROJECT_DIR$/lianxi04" />
+            <option value="$PROJECT_DIR$/lianxihuabu" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/myview02" />
+            <option value="$PROJECT_DIR$/myview1" />
+            <option value="$PROJECT_DIR$/xiaoqiu" />
+            <option value="$PROJECT_DIR$/zuoye04" />
+            <option value="$PROJECT_DIR$/zuoye0402" />
+            <option value="$PROJECT_DIR$/zuoye05" />
+            <option value="$PROJECT_DIR$/zuoye06" />
+            <option value="$PROJECT_DIR$/zuoye08" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

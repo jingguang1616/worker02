@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.lianxihuabu.huabu
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/tv"
+        android:text="哇哈哈哈哈哈哈哈哈哈哈"/>
+    <com.example.lianxihuabu.Myline
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/tv2"/>
+    <com.example.lianxihuabu.Myyaun
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/tv3"/>
+    <com.example.lianxihuabu.sanjiao
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        />
+</LinearLayout>
